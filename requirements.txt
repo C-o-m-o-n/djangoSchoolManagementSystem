@@ -16,7 +16,7 @@ jsonlines==3.1.0
 jsonpointer==2.3
 jsonschema==4.17.3
 MarkupSafe==2.1.2
-mysqlclient==2.1.1
+
 pew==1.2.0
 Pillow==9.4.0
 pipenv==2022.12.19
